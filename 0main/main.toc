@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}INTRODUCTION}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}AN ARCHITECTURAL THEORY ABOUT THERMODYNAMICS AND A THERMODYNAMICAL THEORY ABOUT ARCHITECTURES}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}An Architectural Agenda for Energy}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1}Codification}{5}

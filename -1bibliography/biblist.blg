@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'biblist.blg'
+[64] biber-darwin:313> INFO - === Fri Feb 16, 2018, 17:37:33
+[96] Biber.pm:371> INFO - Reading 'biblist.bcf'
+[223] Biber.pm:857> INFO - Found 5 citekeys in bib section 0
+[248] Biber.pm:3976> INFO - Processing section 0
+[266] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[267] bibtex.pm:1444> INFO - Reading ascii input as UTF-8
+[268] bibtex.pm:1490> INFO - LaTeX decoding ...
+[283] bibtex.pm:1306> INFO - Found BibTeX data source 'bibliography.bib'
+[350] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[350] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[350] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[351] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[363] bbl.pm:617> INFO - Writing 'biblist.bbl' with encoding 'ascii'
+[369] Utils.pm:193> WARN - The entry 'el2015numerical' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[370] bbl.pm:720> INFO - Output to biblist.bbl
+[371] Biber.pm:110> INFO - WARNINGS: 1

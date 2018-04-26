@@ -1,0 +1,208 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bui2016modeling}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2580f49a06e8df0911c397482abb81e5}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={T-T},
+           giveni={T\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=9f3a529d0d0a2822b00bb063dbb59b41}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={Q-B},
+           giveni={Q\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=93270a3f438e525f5b4e60fb7f5bd86c}{%
+           family={Limam},
+           familyi={L\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3c41611b0224019d71aeb2446c9d562a}{%
+           family={Morel},
+           familyi={M\bibinitperiod},
+           given={J-C},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4b2a79d492cdc23e717411ed09600e3e}
+      \strng{fullhash}{41f4fa3babf544ead5776004b75cc797}
+      \strng{bibnamehash}{4b2a79d492cdc23e717411ed09600e3e}
+      \strng{authorbibnamehash}{4b2a79d492cdc23e717411ed09600e3e}
+      \strng{authornamehash}{4b2a79d492cdc23e717411ed09600e3e}
+      \strng{authorfullhash}{41f4fa3babf544ead5776004b75cc797}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Continuum Mechanics and Thermodynamics}
+      \field{number}{1-2}
+      \field{title}{Modeling rammed earth wall using discrete element method}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{523\bibrangedash 538}
+      \range{pages}{16}
+    \endentry
+    \entry{cundall1971computer}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=09b8fe272afec78f115c190097ea3b67}{%
+           family={Cundall},
+           familyi={C\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{09b8fe272afec78f115c190097ea3b67}
+      \strng{fullhash}{09b8fe272afec78f115c190097ea3b67}
+      \strng{bibnamehash}{09b8fe272afec78f115c190097ea3b67}
+      \strng{authorbibnamehash}{09b8fe272afec78f115c190097ea3b67}
+      \strng{authornamehash}{09b8fe272afec78f115c190097ea3b67}
+      \strng{authorfullhash}{09b8fe272afec78f115c190097ea3b67}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Symp. ISRM, Nancy, France, Proc.}
+      \field{title}{A computer model for simulating progressive, large scale movement in blocky rock systems}
+      \field{volume}{2}
+      \field{year}{1971}
+      \field{pages}{129\bibrangedash 136}
+      \range{pages}{8}
+    \endentry
+    \entry{cundall1979discrete}{article}{}
+      \name{author}{2}{}{%
+        {{hash=09b8fe272afec78f115c190097ea3b67}{%
+           family={Cundall},
+           familyi={C\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=79108339c808d8dbc0c8068f4f9d6aec}{%
+           family={Strack},
+           familyi={S\bibinitperiod},
+           given={Otto\bibnamedelima DL},
+           giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \strng{fullhash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \strng{bibnamehash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \strng{authorbibnamehash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \strng{authornamehash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \strng{authorfullhash}{baa9a5c4b222ed9dd702ec504c425eda}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{geotechnique}
+      \field{number}{1}
+      \field{title}{A discrete numerical model for granular assemblies}
+      \field{volume}{29}
+      \field{year}{1979}
+      \field{pages}{47\bibrangedash 65}
+      \range{pages}{19}
+    \endentry
+    \entry{el2015numerical}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2dfff7278228eb0afa2029f5d0512d76}{%
+           family={El\bibnamedelima Nabouche},
+           familyi={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b8aa63342d08a2b6f2cf68daa8959d8b}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={QB},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=929540f3a1772500df2773b9548c17e0}{%
+           family={Perrotin},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d0624ee1ffa151d259d55594c05d36b0}{%
+           family={Pl{\'{e}}},
+           familyi={P\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=48aed60a9cc52331e84cce0b52112eeb}{%
+           family={Plassiard},
+           familyi={P\bibinitperiod},
+           given={JP},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2011181d88395ca160165f6c2974ec6}
+      \strng{fullhash}{3997daac42fd64002f46332b17e87a5f}
+      \strng{bibnamehash}{c2011181d88395ca160165f6c2974ec6}
+      \strng{authorbibnamehash}{c2011181d88395ca160165f6c2974ec6}
+      \strng{authornamehash}{c2011181d88395ca160165f6c2974ec6}
+      \strng{authorfullhash}{3997daac42fd64002f46332b17e87a5f}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{1st International Conference on Bio-based Building Materials}
+      \field{title}{Numerical modeling of rammed earth constructions: Analysis and recommendations}
+      \field{year}{2015}
+      \field{pages}{21\bibrangedash 24}
+      \range{pages}{4}
+    \endentry
+    \entry{yan2009simulation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d1a26c17bdff88a35be5de8a9701abdd}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Geng},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c84109d67742c60f84c205f401bb3d8e}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Hai-sui},
+           giveni={H\bibinithyphendelim s\bibinitperiod}}}%
+        {{hash=9b263a112b4b69276f40ab42b9d0f483}{%
+           family={McDowell},
+           familyi={M\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{36750294fddf2db29d806f19cba84669}
+      \strng{fullhash}{36750294fddf2db29d806f19cba84669}
+      \strng{bibnamehash}{36750294fddf2db29d806f19cba84669}
+      \strng{authorbibnamehash}{36750294fddf2db29d806f19cba84669}
+      \strng{authornamehash}{36750294fddf2db29d806f19cba84669}
+      \strng{authorfullhash}{36750294fddf2db29d806f19cba84669}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Earth and Planetary Science}
+      \field{number}{1}
+      \field{title}{Simulation of granular material behaviour using DEM}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{598\bibrangedash 605}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
