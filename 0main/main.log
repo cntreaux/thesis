@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  25 APR 2018 22:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 APR 2018 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,33 +446,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2
 
-] (../1introduction/introduction.tex [3
+] (../1introduction/introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[3
 
 ]
-Overfull \hbox (18.1587pt too wide) in paragraph at lines 28--29
+Overfull \hbox (18.1587pt too wide) in paragraph at lines 40--41
 \OT1/cmr/m/n/10 innovations cur-rently driven by stan-dard fix-a-tions on in-su-la-tion, en-ergy ef-fi-ciency, and mass-production---
  []
 
-) [4] (../2aa4a/aa4a.tex) [5
+) [4] (../2aa4a/aa4a.tex) (../3constructal/constructal.tex [5
 
-] (./main.aux)
+]
+Overfull \hbox (271.73715pt too wide) in paragraph at lines 5--6
+[]$
+ []
+
+)
+Overfull \hbox (4.6411pt too wide) in paragraph at lines 56--56
+[]\OT1/cmr/bx/n/14.4 BOURNE-AGAIN SHELLS: COM-PU-TA-TION IN BUILD-
+ []
+
+(../4osarc/building_computation.tex) [6] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8563 strings out of 492995
- 148735 string characters out of 6132704
- 400944 words of memory out of 5000000
+ 8571 strings out of 492995
+ 148922 string characters out of 6132704
+ 401944 words of memory out of 5000000
  12024 multiletter control sequences out of 15000+600000
  9053 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,45p,1461b,1071s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (5 pages, 160303 bytes).
+Output written on main.pdf (6 pages, 171583 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
