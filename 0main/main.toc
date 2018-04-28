@@ -2,6 +2,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}INTRODUCTION}{3}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}The Model is the Message}{4}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}AN ARCHITECTURAL THEORY ABOUT THERMODYNAMICS AND A THERMODYNAMICAL THEORY ABOUT ARCHITECTURES}{5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}An Architectural Agenda for Energy}{5}
