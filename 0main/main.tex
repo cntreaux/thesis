@@ -9,7 +9,7 @@
 \usepackage{ragged2e}
 \usepackage[margin = 1.25in]{geometry}
 
-\usepackage[backend = bibtex, style = numeric]{biblatex}
+\usepackage[backend = bibtex, style = numeric, sorting = none]{biblatex}
 \addbibresource{../-1bibliography/bibliography}
 \graphicspath{{../-0images/}}
 
@@ -22,8 +22,8 @@
 %% -------------------------------------------------------------------------- %%
 %%  Cover
 %% -------------------------------------------------------------------------- %%
-\title{Coding Open Rammed-Earth Systems: Preserving Sustainability in Earthen Architecture}
-\author{Brian Poirier}
+\title{A Model of Models of Complexity Preservation in Rammed-Earth System Design: Convergence, Constructal Design, Open-Source Architecture}
+\author{bLp}
 \date{\today}
 \maketitle
 \clearpage
@@ -42,26 +42,32 @@
 \clearpage
 
 %% -------------------------------------------------------------------------- %%
-%%  AN ARCHITECTURAL THEORY ABOUT THERMODYNAMICS AND A THERMODYNAMICAL THEORY ABOUT ARCHITECTURES
+%%  CONVERGENCE
 %% -------------------------------------------------------------------------- %%
-\section{AN ARCHITECTURAL THEORY ABOUT THERMODYNAMICS AND A THERMODYNAMICAL THEORY ABOUT ARCHITECTURES}
-\input{../2aa4a/aa4a.tex}
+\section{CONVERGENCE}
+\input{../2convergence/convergence.tex}
 
+%% -------------------------------------------------------------------------- %%
+%%  CONSTRUCTAL DESIGN
+%% -------------------------------------------------------------------------- %%
+\section{CONSTRUCTAL DESIGN}
 \input{../3constructal/constructal.tex}
 
 
 %% -------------------------------------------------------------------------- %%
-%%  BOURNE-AGAIN SHELLS: COMPUTATION IN BUILDING
+%%  OPEN-SOURCE ARCHITECTURE
 %% -------------------------------------------------------------------------- %%
-\section{BOURNE-AGAIN SHELLS: COMPUTATION IN BUILDING}
-\input{../4osarc/building_computation.tex}
+\section{Open-Source Architecture}
+\input{../4osarc/osarc.tex}
+
+
 %% -------------------------------------------------------------------------- %%
 %%  DESIGNED SYSTEM
 %% -------------------------------------------------------------------------- %%
 
 
 
-% \nocite{*}
+\nocite{}
 \printbibliography
 
 \end{document}
