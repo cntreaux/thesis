@@ -75,5 +75,25 @@
     \field{title}{Convergence}
     \field{year}{2013}
   \endentry
+
+  \entry{RAMMEDEARTHHOUSE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ED}{%
+         family={Easton},
+         familyi={E\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chelsea Green Publishing Company. White River Junction, Vermont}%
+    }
+    \strng{namehash}{ED1}
+    \strng{fullhash}{ED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Rammed Earth House}
+    \field{year}{2007}
+  \endentry
 \endsortlist
 \endinput

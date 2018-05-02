@@ -2,22 +2,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}INTRODUCTION}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}The Model is the Message}{5}
+\contentsline {subsection}{\numberline {1.1}The Model is the Message}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}How Much Does Your Building Weigh?}{6}
+\contentsline {section}{\numberline {2}BASIS IN ARCHITECTURE}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}CONVERGENCE}{7}
+\contentsline {section}{\numberline {3}BASIS IN ENGINEERING}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.0.1}Rammed-Earth Codes}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.0.2}Rammed-Earth Performance}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.0.3}Rammed-Earth Energetics}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}CONSTRUCTAL DESIGN}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Constructal Design}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Open-Source Architecture}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Open-Source Architecture}{8}
+\contentsline {section}{\numberline {4}BASIS IN COMPUTATION}{14}

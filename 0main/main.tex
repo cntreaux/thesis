@@ -8,10 +8,11 @@
 \usepackage{float}
 \usepackage{ragged2e}
 \usepackage[margin = 1.25in]{geometry}
+\linespread{2}
 
 \usepackage[backend = bibtex, style = numeric, sorting = none]{biblatex}
 \addbibresource{../-1bibliography/bibliography}
-\graphicspath{{../-0images/}}
+\graphicspath{{../images/}}
 
 
 %% -------------------------------------------------------------------------- %%
@@ -22,8 +23,8 @@
 %% -------------------------------------------------------------------------- %%
 %%  Cover
 %% -------------------------------------------------------------------------- %%
-\title{A Model of Models of Complexity Preservation in Rammed-Earth System Design: Convergence, Constructal Design, Open-Source Architecture}
-\author{bLp}
+\title{Regrounding Rammed-Earth Energy Systems}
+\author{Brian Poirier}
 \date{\today}
 \maketitle
 \clearpage
@@ -44,21 +45,24 @@
 %% -------------------------------------------------------------------------- %%
 %%  CONVERGENCE
 %% -------------------------------------------------------------------------- %%
-\section{CONVERGENCE}
+\section{BASIS IN ARCHITECTURE}
 \input{../2convergence/convergence.tex}
+\clearpage
 
 %% -------------------------------------------------------------------------- %%
 %%  CONSTRUCTAL DESIGN
 %% -------------------------------------------------------------------------- %%
-\section{CONSTRUCTAL DESIGN}
+\section{BASIS IN ENGINEERING}
 \input{../3constructal/constructal.tex}
+\clearpage
 
 
 %% -------------------------------------------------------------------------- %%
 %%  OPEN-SOURCE ARCHITECTURE
 %% -------------------------------------------------------------------------- %%
-\section{Open-Source Architecture}
+\section{BASIS IN COMPUTATION}
 \input{../4osarc/osarc.tex}
+\clearpage
 
 
 %% -------------------------------------------------------------------------- %%
@@ -71,9 +75,3 @@
 \printbibliography
 
 \end{document}
-
-
-
-%% Notes
-% value of an air gap or extended thickness in RE wall vs. insulation
-% diffusivity and effusivity

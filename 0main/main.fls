@@ -128,6 +128,14 @@ INPUT ../2convergence/convergence.tex
 INPUT ../2convergence/convergence.tex
 INPUT ../3constructal/constructal.tex
 INPUT ../3constructal/constructal.tex
+INPUT ../images/wss1.png
+INPUT ../images/wss1.png
+INPUT ../images/wss1.png
+INPUT ../images/wss2.png
+INPUT ../images/wss2.png
+INPUT ../images/wss2.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT ../4osarc/osarc.tex
 INPUT ../4osarc/osarc.tex
 INPUT main.aux
@@ -136,6 +144,7 @@ OUTPUT main.run.xml
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
